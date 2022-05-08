@@ -1,0 +1,39 @@
+@FIB
+	0w0 tmp
+	*w* tmp a tmp
+
+	0w0 a
+	*w* a b a
+
+	0w0 b
+	*w* tmp a b
+
+	+w+ n -1
+
+@OUT
+	>w< output index
+
+	+w+ index 1
+	+w+ len -1
+
+@UWU
+	-w- input
+
+	OwO input
+	YwY input n
+
+	+w+ n -1
+	
+	=w= a 0
+	=w= b 1
+
+	XwX FIB n
+
+	-w- output
+
+	7w7 output b
+	TwT output
+
+	VwV output len
+	0w0 index
+	XwX OUT len
